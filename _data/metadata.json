@@ -1,7 +1,7 @@
 {
   "title": "Csillagok Receptek",
-  "url": "https://csillag61-recipes-m0mmroqk9.vercel.app",
-  "domain": "csillag61-recipes-m0mmroqk9.vercel.app",
+  "url": "https://csillag61-recipes.vercel.app",
+  "domain": "csillag61-recipes.vercel.app",
   "description": "All you can eat recipes created by Geczy Csilla!",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
@@ -10,11 +10,11 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://csillag61-recipes-m0mmroqk9.vercel.app"
+    "id": "https://csillag61-recipes.vercel.app"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://csillag61-recipes-m0mmroqk9.vercel.app/feed/feed.json"
+    "url": "https://csillag61-recipes.vercel.app/feed/feed.json"
   },
   "author": {
     "name": "Geczy, Csilla",
